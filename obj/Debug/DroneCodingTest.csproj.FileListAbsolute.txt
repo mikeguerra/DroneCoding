@@ -1,0 +1,9 @@
+C:\Users\mikeg\source\repos\DroneCodingTest\DroneCodingTest\bin\Debug\DroneCodingTest.exe.config
+C:\Users\mikeg\source\repos\DroneCodingTest\DroneCodingTest\bin\Debug\DroneCodingTest.exe
+C:\Users\mikeg\source\repos\DroneCodingTest\DroneCodingTest\bin\Debug\DroneCodingTest.pdb
+C:\Users\mikeg\source\repos\DroneCodingTest\DroneCodingTest\obj\Debug\DroneCodingTest.csproj.AssemblyReference.cache
+C:\Users\mikeg\source\repos\DroneCodingTest\DroneCodingTest\obj\Debug\DroneCodingTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\mikeg\source\repos\DroneCodingTest\DroneCodingTest\obj\Debug\DroneCodingTest.csproj.CoreCompileInputs.cache
+C:\Users\mikeg\source\repos\DroneCodingTest\DroneCodingTest\obj\Debug\DroneCodingTest.exe
+C:\Users\mikeg\source\repos\DroneCodingTest\DroneCodingTest\obj\Debug\DroneCodingTest.pdb
+C:\Users\mikeg\source\repos\DroneCodingTest\DroneCodingTest\bin\Debug\Input.txt
